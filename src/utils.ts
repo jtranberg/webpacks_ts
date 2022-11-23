@@ -2,9 +2,9 @@
 
 import _ from "lodash";
 
-export function add(x: number, y: number) {
-    return _.add(x,y);                             //lodash dependancy  _.add
-}
+// export function add(x: number, y: number) {
+//     return _.add(x,y);                            
+// }
 export function subtract(x: number, y: number) {
     return x - y;
 }
